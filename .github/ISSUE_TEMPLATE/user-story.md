@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: General template
+name: user-story
+about: user story
 title: ''
 labels: ''
 assignees: ''
